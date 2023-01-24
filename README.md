@@ -17,7 +17,7 @@
 
 ## Deep fake, Voice Cloning, ethics
 
-- [The shallow of your smile: the ethics of expressive vocal deep-fakes](https://pubmed.ncbi.nlm.nih.gov/34775820/)
+- [The shallow of your smile: the ethics of expressive vocal deep-fakes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8591385/)
 - [As Deepfakes Flourish, Countries Struggle With Response](https://www.nytimes.com/2023/01/22/business/media/deepfake-regulation-difficulty.html)
 - [Why We Don’t Do Deepfakes: Ethics of AI Voice](https://wellsaidlabs.com/blog/why-we-dont-do-deepfakes/)
 - [Regulating Deep Fakes: Legal and Ethical Considerations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3497144)
