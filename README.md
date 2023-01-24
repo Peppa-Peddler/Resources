@@ -25,8 +25,8 @@
 - [Regulating Deep Fakes in the Proposed AI Act](https://www.medialaws.eu/regulating-deep-fakes-in-the-proposed-ai-act/)
 - [The Rise of Ethical Voice Cloning in the Deepfake Voice Wars](https://www.respeecher.com/blog/the-rise-of-ethical-voice-cloning-in-the-deepfake-voice-wars)
 
-## Tacatron, Wavenet, Pytorch
+## Tacotron, Wavenet, Pytorch
 - [WAVENET: A GENERATIVE MODEL FOR RAW AUDIO](https://arxiv.org/pdf/1609.03499.pdf)
-- [TACATRON 2: NATURAL TTS SYNTHESIS BY CONDITIONING WAVENET ON MEL SPECTROGRAM PREDICTIONS](https://arxiv.org/pdf/1712.05884.pdf)
+- [TACOTRON 2: NATURAL TTS SYNTHESIS BY CONDITIONING WAVENET ON MEL SPECTROGRAM PREDICTIONS](https://arxiv.org/pdf/1712.05884.pdf)
 - [What is PyTorch? - NVIDIA](https://www.nvidia.com/en-us/glossary/data-science/pytorch/)
 - [TensorFlow vs PyTorch: Deep Learning Frameworks](https://www.knowledgehut.com/blog/data-science/pytorch-vs-tensorflow)
